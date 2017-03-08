@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damien Firmenich</title>
+    <link>http://www.damienfirmenich.com/</link>
+    <description>Recent content on Damien Firmenich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://www.damienfirmenich.com/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
